@@ -104,12 +104,12 @@ The following curated result files are included in the `data/` folder:
 
 ## Visualizations
 
-The `photo/` folder contains all key result visualizations:
+The `Photo/` folder contains all key result visualizations:
 
 | Folder | Description |
 |--------|-------------|
-| `KM_Plots/` | Kaplan-Meier survival curves for top prognostic genes |
-| `LASSO_ROC_Plots/` | Time-dependent ROC curves for LASSO-selected genes |
+| `Photo/KM_Plots/` | Kaplan-Meier survival curves for top prognostic genes |
+| `Photo/LASSO_ROC_Plots/` | Time-dependent ROC curves for LASSO-selected genes |
 | `Photo/` | Contains enrichment plots, volcano plots, forest plots, etc. |
 
 These plots help validate and interpret the statistical significance of selected biomarkers.
